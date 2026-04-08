@@ -33,9 +33,6 @@ if st.button("Predict Dropout Risk"):
         grade_1,
         grade_2,
         final_grade,
-        0,0,0,0,0,0,0,0,0,0,
-    0,0,0,0,0,0,0,0,0,0,
-    0,0,0,0,0,0,0
     ]])
 
     # Apply scaler if needed
